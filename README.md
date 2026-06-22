@@ -7,8 +7,8 @@ This repository serves as a portfolio of my solutions to various algorithmic and
     2)Language Focus: Python 3
     
 ## Mathematical Optimization
-    1)Volume of pile of cubes.py: Solves structural volume summations.Refactored from an initial nested-loop concept into an optimal linear progression to eliminate                                    time complexity bottlenecks.
-    2)Product of Consecutive Fibonacci Numbers.py: Implements sequential state checking using dynamic variable tracking to verify golden ratio product bounds without                                                    redundant computations.
+    1)Volume of pile of cubes.py: Solves structural volume summations.Refactored from an initial nested-loop concept into an optimal linear progression to eliminate time complexity bottlenecks.
+    2)Product of Consecutive Fibonacci Numbers.py: Implements sequential state checking using dynamic variable tracking to verify golden ratio product bounds without redundant computations.
 
 ## String Manipulation & Logic
     1)First Non-Repeating Character.py: Focuses on character frequency mapping and sequence filtering to isolate unique stream elements efficiently.
